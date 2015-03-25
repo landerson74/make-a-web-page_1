@@ -1,0 +1,135 @@
+body {
+  background-color : DarkCyan;
+}
+h1 {
+  padding: 40px;
+}
+#topic {
+  text-align: center;
+}
+#alpha {
+  height: 150px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#alpha2 {
+  height: 150px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#alpha3 {
+  height: 150px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#phi {
+  height: 150px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sections {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sections2 {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sections3 {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sections4 {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sections5 {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sub2 {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#sub {
+  height: 25px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#omega {
+  height: 90px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#psi {
+  height: 30px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#psi2 {
+  height: 30px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#delta {
+  height: 200px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#kappa {
+  height: 60px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#theta {
+  height: 100px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#theta1 {
+  height: 100px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#theta2 {
+  height: 100px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+#theta3 {
+  height: 100px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+div {
+  height: 200px;
+  width: 1800px;
+  background-color: #ee3e80;
+}
+ul {
+  list-style: inside circle;
+  width: 700px;
+}
+li {
+  margin: 8px 0px 0px 0px;
+}
+.one {list-style-position : outside;
+}
+.two {list-style-position : outside;
+}
+.one {list-style-position : outside;
+}
+.four {list-style-position : outside;
+}
+.five {list-style-position : outside;
+}
+.six {list-style-position : outside;
+}
+.seven {list-style-position : outside;
+}
